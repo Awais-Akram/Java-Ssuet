@@ -1,0 +1,65 @@
+If-else , if-elseif-else , Arithematic Operators , Relational Operators (> , >= , < ,<= , == , !=), Conditional  Operators (&&, ||),for loop ,do-while loop
+
+Question 1
+Write a Java program and compute the sum of the digits of an integer.
+Input Data:
+Input an integer: 25
+Expected Output
+The sum of the digits is: 7
+
+Question 2
+Write a Java program that reads a number and display the square, cube, and fourth power.
+Example: No. is 2  
+Expected Output:
+Square : 4 , Cube : 8 , Fourth : 16 
+
+Question 3
+Write a Java program to compare two numbers.
+Input Data:
+Input first integer: 25
+Input second integer: 39
+Expected Output:
+25 != 39                                                                          
+25 < 39                                                                           
+25 <= 39
+
+Question 4
+Write a Java program to count the letters, spaces, numbers and other characters of a string. Initialize String word = “Attended first java lab on 19th March 2017”
+Expected Output:
+Letters count: 29
+Spaces count: 7
+Numbers count: 6
+
+Question 5
+Take an employee’s number of years of experience and their age and decide how much raise should be given to them in their salary. The condition is that if an employee’s experience is less than 3 years and his age is less than 40, he gets 20% raise, if their experience is less than 5 years and their age is less than 40, they get 30%, and if their experience is more than 7 years and their age is more than 40, they get 50% raise.
+Hint:
+Define two variables one for int yearsExperience , int age
+
+Question 6
+Write a Java program to display multiplication table of 8 upto 5.
+
+Question 7
+Write a program in Java to display the pattern like right angle triangle with a number.
+Input number is: No of Rows = 5
+Hint : Use for loop / do-while
+Expected output:
+1                                                                                
+12                                                                               
+123                                                                              
+1234                                                                             
+12345                                                                                                                                                     
+
+Question 8
+Write a program in Java to display the first 10 natural numbers using do-while.
+
+Question 9
+Write code to achieve given output:
+Initialize int a  = 20 , int b = 10;
+If a is not equal to 10 print “a is not equal to 10”.
+Either a is greater than 10 or b is greater than 10 print “Either a or b  is greater than 10”
+
+Question 10
+Write a program to swap variable’s value. 
+Hint : Use temporary variable to swap values.
+Initialize:  int a  = 20 , int b = 10;
+Expected output: b = 20 , a = 10
