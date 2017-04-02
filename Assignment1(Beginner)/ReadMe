@@ -1,0 +1,47 @@
+                                                            
+                                                            JAVA ASSIGNMENT 1
+                                                            
+Exercise 1: 
+Write a Java program to display Hello World on the screen.
+
+Exercise 2: 
+Write a Java program to declare two integer variables, one float variable, and one string variable and assign 10, 12.5, and "Java programming" to them respectively. Then display their values on the screen.
+
+Exercise 3: 
+Analyze the output: 
+public class Main {
+
+    public static void main(String[] args) {
+         String userName = "firstName";
+
+         userName = userName + " lastName";
+
+         System.out.println("print userName variable:"+userName);
+
+         userName = "modified username";
+
+         System.out.println("print userName variable:"+userName);
+   }
+}
+
+Exercise 4: 
+Write Java program to allow the user to input two integer values and then the program prints the results of adding, subtracting, multiplying, and dividing among the two values. 
+Hint : Use System.console().readLine();  OR 
+
+Scanner scanner = new Scanner(System.in);
+String userInput = scanner.nextLine();   to take user input
+
+Exercise 5: 
+Write Java program to allow the user to input two float values and then the program adds the two values together. The result will be assigned to the first variable.
+
+Exercise 6: 
+Write Java program to allow the user to input his/her age. Then the program will show if the person is eligible to vote. A person who is eligible to vote must be older than or equal to 18 years old.
+
+Exercise 7: 
+Write a Java program to determine whether an input number is an even number.
+Hint: Use Integer.parseInt(String number)
+
+Exercise 8: 
+Write a Java program to determine whether an input number is an odd number.
+Hint: Use Integer.parseInt(String number)
+
